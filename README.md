@@ -1,4 +1,4 @@
-# Custom-Spawn-For-MBM-Apocalypse-Truck-Mod-
+# Custom-Spawns-Livonia-MBM-Apocalypse-Truck-Mod-
 XML Snippets for Livonia DayZ Map. 
 
 MBM Apocalypse Truck Mod Created by mebrad.
